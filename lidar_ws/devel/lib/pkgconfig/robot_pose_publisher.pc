@@ -1,0 +1,1 @@
+/home/agustin/lidar_ws/devel/.private/robot_pose_publisher/lib/pkgconfig/robot_pose_publisher.pc

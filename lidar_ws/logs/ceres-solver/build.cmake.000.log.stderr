@@ -1,0 +1,20 @@
+[36m--[0m Found Eigen version 3.2.92: /usr/include/eigen3
+
+   ===============================================================
+   Disabling the use of Eigen as a sparse linear algebra library.
+   This does not affect the covariance estimation algorithm
+   which can still use the EIGEN_SPARSE_QR algorithm.
+   ===============================================================
+
+[36m--[0m Found LAPACK library: /usr/lib/liblapack.so;/usr/lib/libf77blas.so;/usr/lib/libatlas.so
+[36m--[0m Found BLAS library: /usr/lib/libf77blas.so;/usr/lib/libatlas.so
+[36m--[0m Found SuiteSparse 4.4.6, building with SuiteSparse.
+[36m--[0m Found CXSparse version: 3.1.4, building with CXSparse.
+[36m--[0m Found Google Flags header in: /usr/include, in namespace: google
+[36m--[0m Found Google Log (glog). Assuming glog was built with gflags support as gflags was found. This will make gflags a public dependency of Ceres.
+[36m--[0m Building with OpenMP.
+[36m--[0m Found tr1/unordered_map/set in std::tr1 namespace.
+[36m--[0m Found shared_ptr in std::tr1 namespace using <tr1/memory> header.
+[36m--[0m Building Ceres as a static library.
+[36m--[0m No build type specified; defaulting to CMAKE_BUILD_TYPE=Release.
+[36m--[0m Build the examples.

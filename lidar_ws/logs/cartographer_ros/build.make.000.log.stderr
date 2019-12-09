@@ -1,0 +1,4 @@
+[01m[K/home/agustin/lidar_ws/src/cartographer_ros/cartographer_ros/cartographer_ros/msg_conversion.cc:[m[K In function ‘[01m[Kstd::unique_ptr<nav_msgs::OccupancyGrid_<std::allocator<void> > > cartographer_ros::CreateOccupancyGridMsg(const cartographer::io::PaintSubmapSlicesResult&, double, const string&, const ros::Time&)[m[K’:
+[01m[K/home/agustin/lidar_ws/src/cartographer_ros/cartographer_ros/cartographer_ros/msg_conversion.cc:313:19:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Know[m[K’ set but not used [-Wunused-but-set-variable]
+   const ros::Time now = ros::Time::now();
+[01;32m[K                   ^[m[K

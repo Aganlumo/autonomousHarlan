@@ -1,0 +1,208 @@
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target cartographer_ros_detect_changes[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target cartographer_ros_detect_changes
+[35m[1mScanning dependencies of target cartographer_ros_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target cartographer_ros_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target cartographer_ros_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target cartographer_ros_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target cartographer_ros_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target cartographer_ros_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target cartographer_ros_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target cartographer_ros_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target cartographer_ros_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target cartographer_ros_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target cartographer_ros[0m
+[  2%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/ros_map_writing_points_processor.cc.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/node.cc.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/offline_node.cc.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/ros_map.cc.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/sensor_bridge.cc.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/submap.cc.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/split_string.cc.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/tf_bridge.cc.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/ros_log_sink.cc.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/node_constants.cc.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/assets_writer.cc.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/node_options.cc.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/playable_bag.cc.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/msg_conversion.cc.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/time_conversion.cc.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/urdf_reader.cc.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/trajectory_options.cc.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/cartographer_ros.dir/cartographer_ros/map_builder_bridge.cc.o[0m
+[01m[K/home/agustin/lidar_ws/src/cartographer_ros/cartographer_ros/cartographer_ros/msg_conversion.cc:[m[K In function ‘[01m[Kstd::unique_ptr<nav_msgs::OccupancyGrid_<std::allocator<void> > > cartographer_ros::CreateOccupancyGridMsg(const cartographer::io::PaintSubmapSlicesResult&, double, const string&, const ros::Time&)[m[K’:
+[01m[K/home/agustin/lidar_ws/src/cartographer_ros/cartographer_ros/cartographer_ros/msg_conversion.cc:313:19:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Know[m[K’ set but not used [-Wunused-but-set-variable]
+   const ros::Time now = ros::Time::now();
+[01;32m[K                   ^[m[K
+[ 47%] [32m[1mLinking CXX static library /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/libcartographer_ros.a[0m
+[ 47%] Built target cartographer_ros
+[35m[1mScanning dependencies of target cartographer_node[0m
+[35m[1mScanning dependencies of target cartographer_occupancy_grid_node[0m
+[35m[1mScanning dependencies of target cartographer_start_trajectory[0m
+[35m[1mScanning dependencies of target cartographer_pbstream_map_publisher[0m
+[35m[1mScanning dependencies of target cartographer_offline_node[0m
+[35m[1mScanning dependencies of target cartographer_dev_rosbag_publisher[0m
+[35m[1mScanning dependencies of target cartographer_rosbag_validate[0m
+[35m[1mScanning dependencies of target cartographer_pbstream_to_ros_map[0m
+[35m[1mScanning dependencies of target cartographer_dev_trajectory_comparison[0m
+[35m[1mScanning dependencies of target cartographer_assets_writer[0m
+[ 50%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_dev_rosbag_publisher.dir/dev/rosbag_publisher_main.cc.o[0m
+[ 52%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_start_trajectory.dir/start_trajectory_main.cc.o[0m
+[ 55%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_node.dir/node_main.cc.o[0m
+[ 57%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_occupancy_grid_node.dir/occupancy_grid_node_main.cc.o[0m
+[ 60%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_pbstream_to_ros_map.dir/pbstream_to_ros_map_main.cc.o[0m
+[ 62%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_offline_node.dir/offline_node_main.cc.o[0m
+[ 65%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_assets_writer.dir/ros_map_writing_points_processor.cc.o[0m
+[ 67%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_assets_writer.dir/assets_writer_main.cc.o[0m
+[ 70%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_pbstream_map_publisher.dir/pbstream_map_publisher_main.cc.o[0m
+[ 72%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_rosbag_validate.dir/rosbag_validate_main.cc.o[0m
+[ 75%] [32mBuilding CXX object cartographer_ros/CMakeFiles/cartographer_dev_trajectory_comparison.dir/dev/trajectory_comparison_main.cc.o[0m
+[ 77%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_assets_writer[0m
+[ 80%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_start_trajectory[0m
+[ 82%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_offline_node[0m
+[ 82%] Built target cartographer_assets_writer
+[ 85%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_pbstream_to_ros_map[0m
+[ 85%] Built target cartographer_start_trajectory
+[ 85%] Built target cartographer_pbstream_to_ros_map
+[ 87%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_node[0m
+[ 87%] Built target cartographer_offline_node
+[ 90%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_dev_rosbag_publisher[0m
+[ 90%] Built target cartographer_dev_rosbag_publisher
+[ 90%] Built target cartographer_node
+[ 92%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_occupancy_grid_node[0m
+[ 95%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_pbstream_map_publisher[0m
+[ 95%] Built target cartographer_occupancy_grid_node
+[ 95%] Built target cartographer_pbstream_map_publisher
+[ 97%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_dev_trajectory_comparison[0m
+[ 97%] Built target cartographer_dev_trajectory_comparison
+[100%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/cartographer_ros/lib/cartographer_ros/cartographer_rosbag_validate[0m
+[100%] Built target cartographer_rosbag_validate

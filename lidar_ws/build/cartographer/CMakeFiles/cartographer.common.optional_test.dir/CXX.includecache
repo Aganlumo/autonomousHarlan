@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agustin/lidar_ws/src/cartographer/cartographer/common/make_unique.h
+cstddef
+-
+memory
+-
+type_traits
+-
+utility
+-
+
+/home/agustin/lidar_ws/src/cartographer/cartographer/common/optional.h
+memory
+-
+cartographer/common/make_unique.h
+/home/agustin/lidar_ws/src/cartographer/cartographer/common/cartographer/common/make_unique.h
+glog/logging.h
+/home/agustin/lidar_ws/src/cartographer/cartographer/common/glog/logging.h
+
+/home/agustin/lidar_ws/src/cartographer/cartographer/common/optional_test.cc
+cartographer/common/optional.h
+/home/agustin/lidar_ws/src/cartographer/cartographer/common/cartographer/common/optional.h
+gtest/gtest.h
+/home/agustin/lidar_ws/src/cartographer/cartographer/common/gtest/gtest.h
+

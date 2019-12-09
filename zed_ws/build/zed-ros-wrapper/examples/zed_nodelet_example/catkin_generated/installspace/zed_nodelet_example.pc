@@ -1,0 +1,8 @@
+prefix=/home/agustin/zed_ws/install
+
+Name: zed_nodelet_example
+Description: Description of zed_nodelet_example
+Version: 2.7.0
+Cflags: 
+Libs: -L/home/agustin/zed_ws/install/lib 
+Requires: 

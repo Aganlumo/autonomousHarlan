@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target robot_pose_publisher[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robot_pose_publisher.dir/src/robot_pose_publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/agustin/lidar_ws/devel/.private/robot_pose_publisher/lib/robot_pose_publisher/robot_pose_publisher[0m
+[100%] Built target robot_pose_publisher

@@ -1,0 +1,153 @@
+[  1%] Built target gtest
+[ 41%] Built target ceres
+[ 43%] Built target test_util
+[ 43%] Built target trust_region_preprocessor_test
+[ 44%] Built target trust_region_minimizer_test
+[ 44%] Built target triplet_sparse_matrix_test
+[ 44%] Built target system_test
+[ 44%] Built target sparse_cholesky_test
+[ 45%] Built target solver_test
+[ 46%] Built target small_blas_test
+[ 46%] Built target schur_eliminator_test
+[ 47%] Built target residual_block_utils_test
+[ 47%] Built target program_test
+[ 48%] Built target partitioned_matrix_view_test
+[ 48%] Built target parameter_block_ordering_test
+[ 49%] Built target ordered_groups_test
+[ 49%] Built target numeric_diff_cost_function_test
+[ 49%] Built target loss_function_test
+[ 50%] Built target reorder_program_test
+[ 51%] Built target normal_prior_test
+[ 52%] Built target local_parameterization_test
+[ 52%] Built target line_search_minimizer_test
+[ 52%] Built target corrector_test
+[ 53%] Built target visibility_based_preconditioner_test
+[ 53%] Built target block_jacobi_preconditioner_test
+[ 54%] Built target detect_structure_test
+[ 55%] Built target conditioned_cost_function_test
+[ 55%] Built target compressed_row_sparse_matrix_test
+[ 55%] Built target block_random_access_sparse_matrix_test
+[ 55%] Built target rotation_test
+[ 56%] Built target block_sparse_matrix_test
+[ 56%] Built target array_utils_test
+[ 57%] Built target minimizer_test
+[ 58%] Built target dynamic_sparse_normal_cholesky_solver_test
+[ 58%] Built target gradient_checker_test
+[ 59%] Built target dynamic_compressed_row_sparse_matrix_test
+[ 60%] Built target autodiff_test
+[ 61%] Built target compressed_col_sparse_matrix_utils_test
+[ 61%] Built target autodiff_local_parameterization_test
+[ 62%] Built target sparse_normal_cholesky_solver_test
+[ 62%] Built target dogleg_strategy_test
+[ 63%] Built target autodiff_cost_function_test
+[ 64%] Built target conjugate_gradients_solver_test
+[ 64%] Built target dense_sparse_matrix_test
+[ 64%] Built target iterative_schur_complement_solver_test
+[ 65%] Built target cost_function_to_functor_test
+[ 66%] Built target block_random_access_diagonal_matrix_test
+[ 67%] Built target graph_algorithms_test
+[ 68%] Built target line_search_preprocessor_test
+[ 68%] Built target dynamic_numeric_diff_cost_function_test
+[ 68%] Built target bundle_adjustment_test
+[ 69%] Built target canonical_views_clustering_test
+[ 70%] Built target dense_linear_solver_test
+[ 70%] Built target graph_test
+[ 70%] Built target residual_block_test
+[ 70%] Built target invert_psd_matrix_test
+[ 71%] Built target visibility_test
+[ 72%] Built target block_random_access_dense_matrix_test
+[ 73%] Built target dynamic_autodiff_cost_function_test
+[ 73%] Built target polynomial_test
+[ 74%] Built target c_api_test
+[ 74%] Built target covariance_test
+[ 75%] Built target is_close_test
+[ 76%] Built target evaluator_test
+[ 76%] Built target dynamic_sparsity_test
+[ 77%] Built target gradient_checking_cost_function_test
+[ 78%] Built target cubic_interpolation_test
+[ 79%] Built target levenberg_marquardt_strategy_test
+[ 80%] Built target gradient_problem_test
+[ 81%] Built target parameter_block_test
+[ 81%] Built target gradient_problem_solver_test
+[ 81%] Built target single_linkage_clustering_test
+[ 82%] Built target schur_complement_solver_test
+[ 83%] Built target implicit_schur_complement_test
+[ 84%] Built target problem_test
+[ 85%] Built target inner_product_computer_test
+[ 85%] Built target householder_vector_test
+[ 86%] Built target jet_test
+[ 87%] Built target simple_bundle_adjuster
+[ 87%] Built target robust_curve_fitting
+[ 88%] Built target rosenbrock
+[ 89%] Built target powell
+[ 90%] Built target ellipse_approximation
+[ 91%] Built target helloworld
+[ 92%] Built target helloworld_numeric_diff
+[ 92%] Built target helloworld_analytic_diff
+[ 93%] Built target curve_fitting
+[ 93%] Built target circle_fit
+[ 94%] Built target nist
+[ 95%] Built target bundle_adjuster
+[ 95%] Built target curve_fitting_c
+[ 95%] Built target libmv_bundle_adjuster
+[ 96%] Built target libmv_homography
+[ 96%] Built target more_garbow_hillstrom
+[ 97%] Built target denoising
+[ 98%] Built target robot_pose_mle
+[ 99%] Built target sampled_function
+[100%] Built target pose_graph_2d
+[100%] Built target pose_graph_3d
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/ceres.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/cubic_interpolation.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/normal_prior.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/c_api.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/local_parameterization.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/dynamic_numeric_diff_cost_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/cost_function_to_functor.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/crs_matrix.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/dynamic_cost_function_to_functor.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/numeric_diff_cost_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/solver.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/covariance.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/rotation.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/conditioned_cost_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/autodiff_local_parameterization.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/jet.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/autodiff_cost_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/dynamic_cost_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/gradient_problem.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/iteration_callback.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/version.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/problem.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/gradient_problem_solver.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/gradient_checker.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/loss_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/sized_cost_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/dynamic_autodiff_cost_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/fpclassify.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/ordered_groups.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/types.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/numeric_diff_options.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/cost_function.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/autodiff.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/eigen.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/fixed_array.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/numeric_diff.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/reenable_warnings.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/scoped_ptr.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/variadic_evaluate.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/disable_warnings.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/macros.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/manual_constructor.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/port.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/include/ceres/internal/config.h
+-- Up-to-date: /home/agustin/lidar_ws/devel/lib/cmake/Ceres/CeresTargets.cmake
+-- Up-to-date: /home/agustin/lidar_ws/devel/lib/cmake/Ceres/CeresTargets-release.cmake
+-- Up-to-date: /home/agustin/lidar_ws/devel/lib/cmake/Ceres/CeresConfig.cmake
+-- Up-to-date: /home/agustin/lidar_ws/devel/lib/cmake/Ceres/CeresConfigVersion.cmake
+-- Up-to-date: /home/agustin/lidar_ws/devel/lib/cmake/Ceres/FindEigen.cmake
+-- Up-to-date: /home/agustin/lidar_ws/devel/lib/cmake/Ceres/FindGlog.cmake
+-- Up-to-date: /home/agustin/lidar_ws/devel/lib/cmake/Ceres/FindGflags.cmake
+-- Up-to-date: /home/agustin/lidar_ws/devel/lib/libceres.a

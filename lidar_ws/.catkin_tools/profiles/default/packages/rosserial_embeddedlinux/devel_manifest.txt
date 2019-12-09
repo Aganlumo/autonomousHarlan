@@ -1,0 +1,5 @@
+rosserial/rosserial_embeddedlinux
+/home/agustin/lidar_ws/devel/.private/rosserial_embeddedlinux/cmake.lock /home/agustin/lidar_ws/devel/./cmake.lock
+/home/agustin/lidar_ws/devel/.private/rosserial_embeddedlinux/lib/pkgconfig/rosserial_embeddedlinux.pc /home/agustin/lidar_ws/devel/lib/pkgconfig/rosserial_embeddedlinux.pc
+/home/agustin/lidar_ws/devel/.private/rosserial_embeddedlinux/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake /home/agustin/lidar_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake
+/home/agustin/lidar_ws/devel/.private/rosserial_embeddedlinux/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake /home/agustin/lidar_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake

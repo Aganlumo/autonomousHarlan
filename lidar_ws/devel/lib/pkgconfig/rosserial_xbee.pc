@@ -1,0 +1,1 @@
+/home/agustin/lidar_ws/devel/.private/rosserial_xbee/lib/pkgconfig/rosserial_xbee.pc

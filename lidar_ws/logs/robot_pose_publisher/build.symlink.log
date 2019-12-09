@@ -1,0 +1,4 @@
+Linked: (/home/agustin/lidar_ws/devel/.private/robot_pose_publisher/lib/pkgconfig/robot_pose_publisher.pc, /home/agustin/lidar_ws/devel/lib/pkgconfig/robot_pose_publisher.pc)
+Linked: (/home/agustin/lidar_ws/devel/.private/robot_pose_publisher/lib/robot_pose_publisher/robot_pose_publisher, /home/agustin/lidar_ws/devel/lib/robot_pose_publisher/robot_pose_publisher)
+Linked: (/home/agustin/lidar_ws/devel/.private/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig.cmake, /home/agustin/lidar_ws/devel/share/robot_pose_publisher/cmake/robot_pose_publisherConfig.cmake)
+Linked: (/home/agustin/lidar_ws/devel/.private/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig-version.cmake, /home/agustin/lidar_ws/devel/share/robot_pose_publisher/cmake/robot_pose_publisherConfig-version.cmake)

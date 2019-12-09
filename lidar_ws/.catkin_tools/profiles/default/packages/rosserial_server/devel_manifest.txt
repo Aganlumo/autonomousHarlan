@@ -1,0 +1,9 @@
+rosserial/rosserial_server
+/home/agustin/lidar_ws/devel/.private/rosserial_server/cmake.lock /home/agustin/lidar_ws/devel/./cmake.lock
+/home/agustin/lidar_ws/devel/.private/rosserial_server/lib/librosserial_server_lookup.so /home/agustin/lidar_ws/devel/lib/librosserial_server_lookup.so
+/home/agustin/lidar_ws/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc /home/agustin/lidar_ws/devel/lib/pkgconfig/rosserial_server.pc
+/home/agustin/lidar_ws/devel/.private/rosserial_server/lib/rosserial_server/serial_node /home/agustin/lidar_ws/devel/lib/rosserial_server/serial_node
+/home/agustin/lidar_ws/devel/.private/rosserial_server/lib/rosserial_server/socket_node /home/agustin/lidar_ws/devel/lib/rosserial_server/socket_node
+/home/agustin/lidar_ws/devel/.private/rosserial_server/lib/rosserial_server/udp_socket_node /home/agustin/lidar_ws/devel/lib/rosserial_server/udp_socket_node
+/home/agustin/lidar_ws/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake /home/agustin/lidar_ws/devel/share/rosserial_server/cmake/rosserial_serverConfig-version.cmake
+/home/agustin/lidar_ws/devel/.private/rosserial_server/share/rosserial_server/cmake/rosserial_serverConfig.cmake /home/agustin/lidar_ws/devel/share/rosserial_server/cmake/rosserial_serverConfig.cmake

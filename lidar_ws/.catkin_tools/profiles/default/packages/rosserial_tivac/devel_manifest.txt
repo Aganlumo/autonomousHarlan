@@ -1,0 +1,6 @@
+rosserial/rosserial_tivac
+/home/agustin/lidar_ws/devel/.private/rosserial_tivac/cmake.lock /home/agustin/lidar_ws/devel/./cmake.lock
+/home/agustin/lidar_ws/devel/.private/rosserial_tivac/lib/pkgconfig/rosserial_tivac.pc /home/agustin/lidar_ws/devel/lib/pkgconfig/rosserial_tivac.pc
+/home/agustin/lidar_ws/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake /home/agustin/lidar_ws/devel/share/rosserial_tivac/cmake/rosserial_tivacConfig.cmake
+/home/agustin/lidar_ws/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake /home/agustin/lidar_ws/devel/share/rosserial_tivac/cmake/rosserial_tivacConfig-version.cmake
+/home/agustin/lidar_ws/devel/.private/rosserial_tivac/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake /home/agustin/lidar_ws/devel/share/rosserial_tivac/cmake/rosserial_tivac-extras.cmake

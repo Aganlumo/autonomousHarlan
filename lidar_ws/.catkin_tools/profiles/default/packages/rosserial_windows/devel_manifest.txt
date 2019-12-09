@@ -1,0 +1,5 @@
+rosserial/rosserial_windows
+/home/agustin/lidar_ws/devel/.private/rosserial_windows/cmake.lock /home/agustin/lidar_ws/devel/./cmake.lock
+/home/agustin/lidar_ws/devel/.private/rosserial_windows/lib/pkgconfig/rosserial_windows.pc /home/agustin/lidar_ws/devel/lib/pkgconfig/rosserial_windows.pc
+/home/agustin/lidar_ws/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake /home/agustin/lidar_ws/devel/share/rosserial_windows/cmake/rosserial_windowsConfig-version.cmake
+/home/agustin/lidar_ws/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake /home/agustin/lidar_ws/devel/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake

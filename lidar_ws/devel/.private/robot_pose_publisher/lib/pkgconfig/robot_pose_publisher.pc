@@ -1,0 +1,8 @@
+prefix=/home/agustin/lidar_ws/devel/.private/robot_pose_publisher
+
+Name: robot_pose_publisher
+Description: Description of robot_pose_publisher
+Version: 0.2.4
+Cflags: 
+Libs: -L/home/agustin/lidar_ws/devel/.private/robot_pose_publisher/lib 
+Requires: 

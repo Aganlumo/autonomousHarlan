@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/agustin/lidar_ws/devel/.private/rosserial_test/setup.sh

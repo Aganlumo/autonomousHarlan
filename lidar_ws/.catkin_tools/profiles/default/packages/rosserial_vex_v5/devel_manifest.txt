@@ -1,0 +1,6 @@
+rosserial/rosserial_vex_v5
+/home/agustin/lidar_ws/devel/.private/rosserial_vex_v5/cmake.lock /home/agustin/lidar_ws/devel/./cmake.lock
+/home/agustin/lidar_ws/devel/.private/rosserial_vex_v5/lib/python2.7/dist-packages/rosserial_vex_v5/__init__.py /home/agustin/lidar_ws/devel/lib/python2.7/dist-packages/rosserial_vex_v5/__init__.py
+/home/agustin/lidar_ws/devel/.private/rosserial_vex_v5/lib/pkgconfig/rosserial_vex_v5.pc /home/agustin/lidar_ws/devel/lib/pkgconfig/rosserial_vex_v5.pc
+/home/agustin/lidar_ws/devel/.private/rosserial_vex_v5/share/rosserial_vex_v5/cmake/rosserial_vex_v5Config-version.cmake /home/agustin/lidar_ws/devel/share/rosserial_vex_v5/cmake/rosserial_vex_v5Config-version.cmake
+/home/agustin/lidar_ws/devel/.private/rosserial_vex_v5/share/rosserial_vex_v5/cmake/rosserial_vex_v5Config.cmake /home/agustin/lidar_ws/devel/share/rosserial_vex_v5/cmake/rosserial_vex_v5Config.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/agustin/lidar_ws/devel/.private/cartographer_ros_msgs/setup.sh

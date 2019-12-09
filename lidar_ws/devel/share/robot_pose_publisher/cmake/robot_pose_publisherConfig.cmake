@@ -1,0 +1,1 @@
+/home/agustin/lidar_ws/devel/.private/robot_pose_publisher/share/robot_pose_publisher/cmake/robot_pose_publisherConfig.cmake

@@ -1,0 +1,533 @@
+[35m[1mScanning dependencies of target gtest[0m
+[35m[1mScanning dependencies of target ceres[0m
+[  1%] [32mBuilding CXX object internal/ceres/CMakeFiles/gtest.dir/gmock_gtest_all.cc.o[0m
+[  1%] [32mBuilding CXX object internal/ceres/CMakeFiles/gtest.dir/gmock_main.cc.o[0m
+[  1%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/blas.cc.o[0m
+[  1%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/array_utils.cc.o[0m
+[  1%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_evaluate_preparer.cc.o[0m
+[  1%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_jacobian_writer.cc.o[0m
+[  2%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_jacobi_preconditioner.cc.o[0m
+[  2%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_random_access_dense_matrix.cc.o[0m
+[  2%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_random_access_sparse_matrix.cc.o[0m
+[  3%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_sparse_matrix.cc.o[0m
+[  4%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_random_access_diagonal_matrix.cc.o[0m
+[  4%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_random_access_matrix.cc.o[0m
+[  4%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/block_structure.cc.o[0m
+[  4%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/c_api.cc.o[0m
+[  4%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/canonical_views_clustering.cc.o[0m
+[  5%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/cgnr_solver.cc.o[0m
+[  5%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/callbacks.cc.o[0m
+[  5%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/compressed_col_sparse_matrix_utils.cc.o[0m
+[  6%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/compressed_row_jacobian_writer.cc.o[0m
+[  6%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/compressed_row_sparse_matrix.cc.o[0m
+[  6%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/conditioned_cost_function.cc.o[0m
+[  7%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/conjugate_gradients_solver.cc.o[0m
+[  7%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/coordinate_descent_minimizer.cc.o[0m
+[  7%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/corrector.cc.o[0m
+[  7%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/covariance.cc.o[0m
+[  8%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/covariance_impl.cc.o[0m
+[  8%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/cxsparse.cc.o[0m
+[  8%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/dense_normal_cholesky_solver.cc.o[0m
+[  9%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/dense_qr_solver.cc.o[0m
+[  9%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/detect_structure.cc.o[0m
+[  9%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/dense_sparse_matrix.cc.o[0m
+[ 10%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/dogleg_strategy.cc.o[0m
+[ 10%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/dynamic_compressed_row_jacobian_writer.cc.o[0m
+[ 10%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/dynamic_compressed_row_sparse_matrix.cc.o[0m
+[ 10%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/dynamic_sparse_normal_cholesky_solver.cc.o[0m
+[ 11%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/evaluator.cc.o[0m
+[ 11%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/eigensparse.cc.o[0m
+[ 11%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/file.cc.o[0m
+[ 12%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/function_sample.cc.o[0m
+[ 12%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/gradient_checker.cc.o[0m
+[ 12%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/gradient_checking_cost_function.cc.o[0m
+[ 13%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/gradient_problem.cc.o[0m
+[ 13%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/gradient_problem_solver.cc.o[0m
+[ 13%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/implicit_schur_complement.cc.o[0m
+[ 13%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/inner_product_computer.cc.o[0m
+[ 14%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/is_close.cc.o[0m
+[ 14%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/iterative_schur_complement_solver.cc.o[0m
+[ 14%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/levenberg_marquardt_strategy.cc.o[0m
+[ 15%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/lapack.cc.o[0m
+[ 15%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/line_search.cc.o[0m
+[ 15%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/line_search_direction.cc.o[0m
+[ 15%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/line_search_minimizer.cc.o[0m
+[ 16%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/line_search_preprocessor.cc.o[0m
+[ 16%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/linear_least_squares_problems.cc.o[0m
+[ 16%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/linear_operator.cc.o[0m
+[ 17%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/linear_solver.cc.o[0m
+[ 17%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/local_parameterization.cc.o[0m
+[ 17%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/loss_function.cc.o[0m
+[ 18%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/low_rank_inverse_hessian.cc.o[0m
+[ 18%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/minimizer.cc.o[0m
+[ 18%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/normal_prior.cc.o[0m
+[ 18%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/parameter_block_ordering.cc.o[0m
+[ 19%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/partitioned_matrix_view.cc.o[0m
+[ 19%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/polynomial.cc.o[0m
+[ 19%] [32m[1mLinking CXX static library ../../lib/libgtest.a[0m
+[ 19%] Built target gtest
+[ 19%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/preconditioner.cc.o[0m
+[ 20%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/preprocessor.cc.o[0m
+[ 20%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/problem.cc.o[0m
+[ 20%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/problem_impl.cc.o[0m
+[ 21%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/program.cc.o[0m
+[ 21%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/reorder_program.cc.o[0m
+[ 21%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/residual_block.cc.o[0m
+[ 21%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/residual_block_utils.cc.o[0m
+[ 22%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/schur_complement_solver.cc.o[0m
+[ 22%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/schur_eliminator.cc.o[0m
+[ 22%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/schur_jacobi_preconditioner.cc.o[0m
+[ 23%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/schur_templates.cc.o[0m
+[ 23%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/scratch_evaluate_preparer.cc.o[0m
+[ 23%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/single_linkage_clustering.cc.o[0m
+[ 24%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/solver.cc.o[0m
+[ 24%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/solver_utils.cc.o[0m
+[ 24%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/sparse_matrix.cc.o[0m
+[ 24%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/sparse_cholesky.cc.o[0m
+[ 25%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/sparse_normal_cholesky_solver.cc.o[0m
+[ 25%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/split.cc.o[0m
+[ 25%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/stringprintf.cc.o[0m
+[ 26%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/suitesparse.cc.o[0m
+[ 26%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/triplet_sparse_matrix.cc.o[0m
+[ 26%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/trust_region_preprocessor.cc.o[0m
+[ 27%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/trust_region_minimizer.cc.o[0m
+[ 27%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/trust_region_step_evaluator.cc.o[0m
+[ 27%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/trust_region_strategy.cc.o[0m
+[ 27%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/types.cc.o[0m
+[ 28%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/visibility.cc.o[0m
+[ 28%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/visibility_based_preconditioner.cc.o[0m
+[ 28%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/wall_time.cc.o[0m
+[ 29%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_4_8.cc.o[0m
+[ 29%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_3_3.cc.o[0m
+[ 29%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_d_d_d.cc.o[0m
+[ 30%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_4_3.cc.o[0m
+[ 30%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_2_2.cc.o[0m
+[ 30%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_3_3.cc.o[0m
+[ 30%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_4_d.cc.o[0m
+[ 31%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_4_4_3.cc.o[0m
+[ 31%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_2_3.cc.o[0m
+[ 31%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_2_3.cc.o[0m
+[ 32%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_4_4_d.cc.o[0m
+[ 32%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_3_6.cc.o[0m
+[ 32%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_d_d.cc.o[0m
+[ 33%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_4_4.cc.o[0m
+[ 33%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_3_d.cc.o[0m
+[ 33%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_d_d_d.cc.o[0m
+[ 33%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_4_4.cc.o[0m
+[ 34%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_4_4_3.cc.o[0m
+[ 34%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_4_3.cc.o[0m
+[ 34%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_2_d.cc.o[0m
+[ 35%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_3_4.cc.o[0m
+[ 35%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_3_d.cc.o[0m
+[ 35%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_2_2.cc.o[0m
+[ 35%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_4_9.cc.o[0m
+[ 36%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_2_d.cc.o[0m
+[ 36%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_2_4.cc.o[0m
+[ 36%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_3_9.cc.o[0m
+[ 37%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_4_d.cc.o[0m
+[ 37%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_4_4_4.cc.o[0m
+[ 37%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_4_9.cc.o[0m
+[ 38%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_4_4_4.cc.o[0m
+[ 38%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_4_4_2.cc.o[0m
+[ 38%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_4_8.cc.o[0m
+[ 38%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_3_6.cc.o[0m
+[ 39%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_4_4_2.cc.o[0m
+[ 39%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_3_4.cc.o[0m
+[ 39%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_2_4.cc.o[0m
+[ 40%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_2_d_d.cc.o[0m
+[ 40%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/partitioned_matrix_view_2_3_9.cc.o[0m
+[ 40%] [32mBuilding CXX object internal/ceres/CMakeFiles/ceres.dir/generated/schur_eliminator_4_4_d.cc.o[0m
+[ 41%] [32m[1mLinking CXX static library ../../lib/libceres.a[0m
+[ 41%] Built target ceres
+[35m[1mScanning dependencies of target ellipse_approximation[0m
+[35m[1mScanning dependencies of target powell[0m
+[35m[1mScanning dependencies of target simple_bundle_adjuster[0m
+[35m[1mScanning dependencies of target test_util[0m
+[35m[1mScanning dependencies of target rosenbrock[0m
+[35m[1mScanning dependencies of target robust_curve_fitting[0m
+[35m[1mScanning dependencies of target helloworld_numeric_diff[0m
+[35m[1mScanning dependencies of target helloworld_analytic_diff[0m
+[35m[1mScanning dependencies of target curve_fitting[0m
+[35m[1mScanning dependencies of target nist[0m
+[35m[1mScanning dependencies of target circle_fit[0m
+[35m[1mScanning dependencies of target helloworld[0m
+[ 42%] [32mBuilding CXX object internal/ceres/CMakeFiles/test_util.dir/evaluator_test_utils.cc.o[0m
+[ 42%] [32mBuilding CXX object examples/CMakeFiles/circle_fit.dir/circle_fit.cc.o[0m
+[ 42%] [32mBuilding CXX object examples/CMakeFiles/robust_curve_fitting.dir/robust_curve_fitting.cc.o[0m
+[ 42%] [32mBuilding CXX object examples/CMakeFiles/rosenbrock.dir/rosenbrock.cc.o[0m
+[ 43%] [32mBuilding CXX object examples/CMakeFiles/simple_bundle_adjuster.dir/simple_bundle_adjuster.cc.o[0m
+[ 44%] [32mBuilding CXX object examples/CMakeFiles/ellipse_approximation.dir/ellipse_approximation.cc.o[0m
+[ 44%] [32mBuilding CXX object examples/CMakeFiles/helloworld_analytic_diff.dir/helloworld_analytic_diff.cc.o[0m
+[ 44%] [32mBuilding CXX object examples/CMakeFiles/helloworld_numeric_diff.dir/helloworld_numeric_diff.cc.o[0m
+[ 44%] [32mBuilding CXX object examples/CMakeFiles/curve_fitting.dir/curve_fitting.cc.o[0m
+[ 45%] [32mBuilding CXX object examples/CMakeFiles/powell.dir/powell.cc.o[0m
+[ 45%] [32mBuilding CXX object examples/CMakeFiles/helloworld.dir/helloworld.cc.o[0m
+[ 46%] [32mBuilding CXX object examples/CMakeFiles/nist.dir/nist.cc.o[0m
+[ 47%] [32m[1mLinking CXX executable ../bin/rosenbrock[0m
+[ 47%] [32m[1mLinking CXX executable ../bin/helloworld_analytic_diff[0m
+[ 48%] [32m[1mLinking CXX executable ../bin/helloworld[0m
+[ 48%] [32m[1mLinking CXX executable ../bin/robust_curve_fitting[0m
+[ 48%] [32m[1mLinking CXX executable ../bin/helloworld_numeric_diff[0m
+[ 48%] [32m[1mLinking CXX executable ../bin/circle_fit[0m
+[ 49%] [32m[1mLinking CXX executable ../bin/curve_fitting[0m
+[ 49%] Built target helloworld_analytic_diff
+[35m[1mScanning dependencies of target bundle_adjuster[0m
+[ 49%] [32m[1mLinking CXX executable ../bin/powell[0m
+[ 49%] Built target rosenbrock
+[35m[1mScanning dependencies of target curve_fitting_c[0m
+[ 49%] [32mBuilding C object examples/CMakeFiles/curve_fitting_c.dir/curve_fitting.c.o[0m
+[ 49%] [32mBuilding CXX object examples/CMakeFiles/bundle_adjuster.dir/bundle_adjuster.cc.o[0m
+[ 49%] [32mBuilding CXX object internal/ceres/CMakeFiles/test_util.dir/numeric_diff_test_utils.cc.o[0m
+[ 49%] Built target helloworld
+[ 49%] [32mBuilding CXX object examples/CMakeFiles/bundle_adjuster.dir/bal_problem.cc.o[0m
+[ 49%] [32m[1mLinking C executable ../bin/curve_fitting_c[0m
+[ 49%] Built target robust_curve_fitting
+[35m[1mScanning dependencies of target libmv_bundle_adjuster[0m
+[ 49%] Built target curve_fitting
+[ 49%] Built target helloworld_numeric_diff
+[ 49%] [32mBuilding CXX object internal/ceres/CMakeFiles/test_util.dir/test_util.cc.o[0m
+[35m[1mScanning dependencies of target libmv_homography[0m
+[ 49%] Built target circle_fit
+[ 49%] [32mBuilding CXX object examples/CMakeFiles/libmv_bundle_adjuster.dir/libmv_bundle_adjuster.cc.o[0m
+[35m[1mScanning dependencies of target more_garbow_hillstrom[0m
+[ 50%] [32mBuilding CXX object examples/CMakeFiles/libmv_homography.dir/libmv_homography.cc.o[0m
+[ 50%] [32mBuilding CXX object examples/CMakeFiles/more_garbow_hillstrom.dir/more_garbow_hillstrom.cc.o[0m
+[ 51%] [32m[1mLinking CXX executable ../bin/simple_bundle_adjuster[0m
+[ 51%] [32m[1mLinking CXX executable ../bin/ellipse_approximation[0m
+[ 51%] Built target powell
+[35m[1mScanning dependencies of target denoising[0m
+[ 51%] [32mBuilding CXX object examples/CMakeFiles/denoising.dir/denoising.cc.o[0m
+[ 51%] Built target curve_fitting_c
+[35m[1mScanning dependencies of target robot_pose_mle[0m
+[ 51%] [32mBuilding CXX object examples/CMakeFiles/robot_pose_mle.dir/robot_pose_mle.cc.o[0m
+[ 51%] Built target simple_bundle_adjuster
+[35m[1mScanning dependencies of target sampled_function[0m
+[ 51%] Built target ellipse_approximation
+[35m[1mScanning dependencies of target pose_graph_2d[0m
+[ 52%] [32mBuilding CXX object examples/sampled_function/CMakeFiles/sampled_function.dir/sampled_function.cc.o[0m
+[35m[1mScanning dependencies of target pose_graph_3d[0m
+[ 52%] [32mBuilding CXX object examples/slam/pose_graph_2d/CMakeFiles/pose_graph_2d.dir/pose_graph_2d.cc.o[0m
+[ 53%] [32m[1mLinking CXX static library ../../lib/libtest_util.a[0m
+[ 53%] [32mBuilding CXX object examples/slam/pose_graph_3d/CMakeFiles/pose_graph_3d.dir/pose_graph_3d.cc.o[0m
+[ 53%] Built target test_util
+[35m[1mScanning dependencies of target trust_region_preprocessor_test[0m
+[ 53%] [32mBuilding CXX object internal/ceres/CMakeFiles/trust_region_preprocessor_test.dir/trust_region_preprocessor_test.cc.o[0m
+[35m[1mScanning dependencies of target trust_region_minimizer_test[0m
+[ 53%] [32mBuilding CXX object internal/ceres/CMakeFiles/trust_region_minimizer_test.dir/trust_region_minimizer_test.cc.o[0m
+[ 54%] [32mBuilding CXX object examples/CMakeFiles/denoising.dir/fields_of_experts.cc.o[0m
+[ 55%] [32m[1mLinking CXX executable ../bin/robot_pose_mle[0m
+[ 55%] [32m[1mLinking CXX executable ../../bin/sampled_function[0m
+[ 55%] [32m[1mLinking CXX executable ../bin/denoising[0m
+[ 55%] Built target robot_pose_mle
+[35m[1mScanning dependencies of target triplet_sparse_matrix_test[0m
+[ 55%] [32mBuilding CXX object internal/ceres/CMakeFiles/triplet_sparse_matrix_test.dir/triplet_sparse_matrix_test.cc.o[0m
+[ 55%] Built target sampled_function
+[35m[1mScanning dependencies of target system_test[0m
+[ 55%] [32mBuilding CXX object internal/ceres/CMakeFiles/system_test.dir/system_test.cc.o[0m
+[ 55%] Built target denoising
+[35m[1mScanning dependencies of target sparse_cholesky_test[0m
+[ 55%] [32m[1mLinking CXX executable ../bin/libmv_bundle_adjuster[0m
+[ 55%] [32mBuilding CXX object internal/ceres/CMakeFiles/sparse_cholesky_test.dir/sparse_cholesky_test.cc.o[0m
+[ 56%] [32m[1mLinking CXX executable ../bin/bundle_adjuster[0m
+[ 56%] Built target libmv_bundle_adjuster
+[35m[1mScanning dependencies of target solver_test[0m
+[ 56%] [32mBuilding CXX object internal/ceres/CMakeFiles/solver_test.dir/solver_test.cc.o[0m
+[ 56%] Built target bundle_adjuster
+[35m[1mScanning dependencies of target small_blas_test[0m
+[ 57%] [32mBuilding CXX object internal/ceres/CMakeFiles/small_blas_test.dir/small_blas_test.cc.o[0m
+[ 57%] [32m[1mLinking CXX executable ../../bin/trust_region_preprocessor_test[0m
+[ 57%] Built target trust_region_preprocessor_test
+[35m[1mScanning dependencies of target schur_eliminator_test[0m
+[ 57%] [32mBuilding CXX object internal/ceres/CMakeFiles/schur_eliminator_test.dir/schur_eliminator_test.cc.o[0m
+[ 57%] [32m[1mLinking CXX executable ../../bin/system_test[0m
+[ 57%] [32m[1mLinking CXX executable ../../bin/triplet_sparse_matrix_test[0m
+[ 57%] Built target triplet_sparse_matrix_test
+[35m[1mScanning dependencies of target residual_block_utils_test[0m
+[ 58%] [32mBuilding CXX object internal/ceres/CMakeFiles/residual_block_utils_test.dir/residual_block_utils_test.cc.o[0m
+[ 58%] Built target system_test
+[35m[1mScanning dependencies of target program_test[0m
+[ 59%] [32m[1mLinking CXX executable ../../../bin/pose_graph_2d[0m
+[ 59%] [32mBuilding CXX object internal/ceres/CMakeFiles/program_test.dir/program_test.cc.o[0m
+[ 59%] Built target pose_graph_2d
+[35m[1mScanning dependencies of target partitioned_matrix_view_test[0m
+[ 59%] [32mBuilding CXX object internal/ceres/CMakeFiles/partitioned_matrix_view_test.dir/partitioned_matrix_view_test.cc.o[0m
+[ 60%] [32m[1mLinking CXX executable ../../bin/trust_region_minimizer_test[0m
+[ 60%] [32m[1mLinking CXX executable ../bin/libmv_homography[0m
+[ 60%] [32m[1mLinking CXX executable ../../bin/residual_block_utils_test[0m
+[ 60%] [32m[1mLinking CXX executable ../../../bin/pose_graph_3d[0m
+[ 60%] Built target trust_region_minimizer_test
+[35m[1mScanning dependencies of target parameter_block_ordering_test[0m
+[ 60%] [32mBuilding CXX object internal/ceres/CMakeFiles/parameter_block_ordering_test.dir/parameter_block_ordering_test.cc.o[0m
+[ 60%] Built target residual_block_utils_test
+[35m[1mScanning dependencies of target ordered_groups_test[0m
+[ 61%] [32m[1mLinking CXX executable ../../bin/solver_test[0m
+[ 62%] [32mBuilding CXX object internal/ceres/CMakeFiles/ordered_groups_test.dir/ordered_groups_test.cc.o[0m
+[ 62%] Built target libmv_homography
+[35m[1mScanning dependencies of target numeric_diff_cost_function_test[0m
+[ 62%] Built target pose_graph_3d
+[35m[1mScanning dependencies of target loss_function_test[0m
+[ 62%] [32mBuilding CXX object internal/ceres/CMakeFiles/loss_function_test.dir/loss_function_test.cc.o[0m
+[ 62%] [32mBuilding CXX object internal/ceres/CMakeFiles/numeric_diff_cost_function_test.dir/numeric_diff_cost_function_test.cc.o[0m
+[ 62%] Built target solver_test
+[35m[1mScanning dependencies of target reorder_program_test[0m
+[ 62%] [32mBuilding CXX object internal/ceres/CMakeFiles/reorder_program_test.dir/reorder_program_test.cc.o[0m
+[ 63%] [32m[1mLinking CXX executable ../../bin/partitioned_matrix_view_test[0m
+[ 63%] Built target partitioned_matrix_view_test
+[35m[1mScanning dependencies of target normal_prior_test[0m
+[ 63%] [32mBuilding CXX object internal/ceres/CMakeFiles/normal_prior_test.dir/normal_prior_test.cc.o[0m
+[ 63%] [32m[1mLinking CXX executable ../../bin/program_test[0m
+[ 63%] [32m[1mLinking CXX executable ../../bin/parameter_block_ordering_test[0m
+[ 63%] [32m[1mLinking CXX executable ../../bin/loss_function_test[0m
+[ 63%] Built target program_test
+[35m[1mScanning dependencies of target local_parameterization_test[0m
+[ 63%] [32mBuilding CXX object internal/ceres/CMakeFiles/local_parameterization_test.dir/local_parameterization_test.cc.o[0m
+[ 63%] Built target parameter_block_ordering_test
+[35m[1mScanning dependencies of target line_search_minimizer_test[0m
+[ 63%] Built target loss_function_test
+[35m[1mScanning dependencies of target corrector_test[0m
+[ 63%] [32mBuilding CXX object internal/ceres/CMakeFiles/line_search_minimizer_test.dir/line_search_minimizer_test.cc.o[0m
+[ 63%] [32mBuilding CXX object internal/ceres/CMakeFiles/corrector_test.dir/corrector_test.cc.o[0m
+[ 63%] [32m[1mLinking CXX executable ../../bin/small_blas_test[0m
+[ 63%] Built target small_blas_test
+[35m[1mScanning dependencies of target visibility_based_preconditioner_test[0m
+[ 64%] [32mBuilding CXX object internal/ceres/CMakeFiles/visibility_based_preconditioner_test.dir/visibility_based_preconditioner_test.cc.o[0m
+[ 64%] [32m[1mLinking CXX executable ../../bin/ordered_groups_test[0m
+[ 64%] Built target ordered_groups_test
+[35m[1mScanning dependencies of target block_jacobi_preconditioner_test[0m
+[ 64%] [32mBuilding CXX object internal/ceres/CMakeFiles/block_jacobi_preconditioner_test.dir/block_jacobi_preconditioner_test.cc.o[0m
+[ 65%] [32m[1mLinking CXX executable ../../bin/normal_prior_test[0m
+[ 65%] [32m[1mLinking CXX executable ../../bin/line_search_minimizer_test[0m
+[ 65%] Built target normal_prior_test
+[35m[1mScanning dependencies of target detect_structure_test[0m
+[ 66%] [32mBuilding CXX object internal/ceres/CMakeFiles/detect_structure_test.dir/detect_structure_test.cc.o[0m
+[ 66%] [32m[1mLinking CXX executable ../../bin/sparse_cholesky_test[0m
+[ 66%] [32m[1mLinking CXX executable ../../bin/visibility_based_preconditioner_test[0m
+[ 66%] Built target sparse_cholesky_test
+[35m[1mScanning dependencies of target conditioned_cost_function_test[0m
+[ 67%] [32mBuilding CXX object internal/ceres/CMakeFiles/conditioned_cost_function_test.dir/conditioned_cost_function_test.cc.o[0m
+[ 67%] Built target visibility_based_preconditioner_test
+[35m[1mScanning dependencies of target compressed_row_sparse_matrix_test[0m
+[ 67%] Built target line_search_minimizer_test
+[35m[1mScanning dependencies of target block_random_access_sparse_matrix_test[0m
+[ 67%] [32mBuilding CXX object internal/ceres/CMakeFiles/compressed_row_sparse_matrix_test.dir/compressed_row_sparse_matrix_test.cc.o[0m
+[ 67%] [32mBuilding CXX object internal/ceres/CMakeFiles/block_random_access_sparse_matrix_test.dir/block_random_access_sparse_matrix_test.cc.o[0m
+[ 68%] [32m[1mLinking CXX executable ../../bin/reorder_program_test[0m
+[ 68%] Built target reorder_program_test
+[35m[1mScanning dependencies of target rotation_test[0m
+[ 68%] [32m[1mLinking CXX executable ../../bin/detect_structure_test[0m
+[ 68%] [32mBuilding CXX object internal/ceres/CMakeFiles/rotation_test.dir/rotation_test.cc.o[0m
+[ 68%] Built target detect_structure_test
+[35m[1mScanning dependencies of target block_sparse_matrix_test[0m
+[ 69%] [32mBuilding CXX object internal/ceres/CMakeFiles/block_sparse_matrix_test.dir/block_sparse_matrix_test.cc.o[0m
+[ 69%] [32m[1mLinking CXX executable ../../bin/conditioned_cost_function_test[0m
+[ 69%] Built target conditioned_cost_function_test
+[35m[1mScanning dependencies of target array_utils_test[0m
+[ 69%] [32mBuilding CXX object internal/ceres/CMakeFiles/array_utils_test.dir/array_utils_test.cc.o[0m
+[ 69%] [32m[1mLinking CXX executable ../../bin/schur_eliminator_test[0m
+[ 69%] Built target schur_eliminator_test
+[35m[1mScanning dependencies of target minimizer_test[0m
+[ 70%] [32mBuilding CXX object internal/ceres/CMakeFiles/minimizer_test.dir/minimizer_test.cc.o[0m
+[ 70%] [32m[1mLinking CXX executable ../../bin/corrector_test[0m
+[ 70%] [32m[1mLinking CXX executable ../../bin/block_jacobi_preconditioner_test[0m
+[ 70%] Built target corrector_test
+[35m[1mScanning dependencies of target dynamic_sparse_normal_cholesky_solver_test[0m
+[ 71%] [32mBuilding CXX object internal/ceres/CMakeFiles/dynamic_sparse_normal_cholesky_solver_test.dir/dynamic_sparse_normal_cholesky_solver_test.cc.o[0m
+[ 71%] [32m[1mLinking CXX executable ../../bin/array_utils_test[0m
+[ 71%] Built target block_jacobi_preconditioner_test
+[35m[1mScanning dependencies of target gradient_checker_test[0m
+[ 71%] [32mBuilding CXX object internal/ceres/CMakeFiles/gradient_checker_test.dir/gradient_checker_test.cc.o[0m
+[ 71%] Built target array_utils_test
+[35m[1mScanning dependencies of target dynamic_compressed_row_sparse_matrix_test[0m
+[ 71%] [32mBuilding CXX object internal/ceres/CMakeFiles/dynamic_compressed_row_sparse_matrix_test.dir/dynamic_compressed_row_sparse_matrix_test.cc.o[0m
+[ 71%] [32m[1mLinking CXX executable ../../bin/block_random_access_sparse_matrix_test[0m
+[ 71%] Built target block_random_access_sparse_matrix_test
+[35m[1mScanning dependencies of target autodiff_test[0m
+[ 72%] [32mBuilding CXX object internal/ceres/CMakeFiles/autodiff_test.dir/autodiff_test.cc.o[0m
+[ 72%] [32m[1mLinking CXX executable ../bin/nist[0m
+[ 72%] [32m[1mLinking CXX executable ../../bin/compressed_row_sparse_matrix_test[0m
+[ 72%] [32m[1mLinking CXX executable ../../bin/numeric_diff_cost_function_test[0m
+[ 72%] Built target compressed_row_sparse_matrix_test
+[35m[1mScanning dependencies of target compressed_col_sparse_matrix_utils_test[0m
+[ 72%] [32mBuilding CXX object internal/ceres/CMakeFiles/compressed_col_sparse_matrix_utils_test.dir/compressed_col_sparse_matrix_utils_test.cc.o[0m
+[ 72%] [32m[1mLinking CXX executable ../../bin/minimizer_test[0m
+[ 72%] Built target numeric_diff_cost_function_test
+[35m[1mScanning dependencies of target autodiff_local_parameterization_test[0m
+[ 72%] [32mBuilding CXX object internal/ceres/CMakeFiles/autodiff_local_parameterization_test.dir/autodiff_local_parameterization_test.cc.o[0m
+[ 72%] Built target nist
+[35m[1mScanning dependencies of target sparse_normal_cholesky_solver_test[0m
+[ 72%] [32m[1mLinking CXX executable ../../bin/block_sparse_matrix_test[0m
+[ 72%] [32mBuilding CXX object internal/ceres/CMakeFiles/sparse_normal_cholesky_solver_test.dir/sparse_normal_cholesky_solver_test.cc.o[0m
+[ 72%] Built target block_sparse_matrix_test
+[35m[1mScanning dependencies of target dogleg_strategy_test[0m
+[ 72%] Built target minimizer_test
+[35m[1mScanning dependencies of target autodiff_cost_function_test[0m
+[ 72%] [32mBuilding CXX object internal/ceres/CMakeFiles/dogleg_strategy_test.dir/dogleg_strategy_test.cc.o[0m
+[ 72%] [32mBuilding CXX object internal/ceres/CMakeFiles/autodiff_cost_function_test.dir/autodiff_cost_function_test.cc.o[0m
+[ 73%] [32m[1mLinking CXX executable ../../bin/local_parameterization_test[0m
+[ 74%] [32m[1mLinking CXX executable ../../bin/dynamic_compressed_row_sparse_matrix_test[0m
+[ 74%] Built target local_parameterization_test
+[35m[1mScanning dependencies of target conjugate_gradients_solver_test[0m
+[ 74%] [32mBuilding CXX object internal/ceres/CMakeFiles/conjugate_gradients_solver_test.dir/conjugate_gradients_solver_test.cc.o[0m
+[ 74%] Built target dynamic_compressed_row_sparse_matrix_test
+[35m[1mScanning dependencies of target dense_sparse_matrix_test[0m
+[ 74%] [32mBuilding CXX object internal/ceres/CMakeFiles/dense_sparse_matrix_test.dir/dense_sparse_matrix_test.cc.o[0m
+[ 75%] [32m[1mLinking CXX executable ../../bin/compressed_col_sparse_matrix_utils_test[0m
+[ 75%] Built target compressed_col_sparse_matrix_utils_test
+[35m[1mScanning dependencies of target iterative_schur_complement_solver_test[0m
+[ 75%] [32mBuilding CXX object internal/ceres/CMakeFiles/iterative_schur_complement_solver_test.dir/iterative_schur_complement_solver_test.cc.o[0m
+[ 75%] [32m[1mLinking CXX executable ../../bin/rotation_test[0m
+[ 75%] [32m[1mLinking CXX executable ../../bin/autodiff_local_parameterization_test[0m
+[ 75%] Built target rotation_test
+[ 76%] [32m[1mLinking CXX executable ../../bin/autodiff_cost_function_test[0m
+[35m[1mScanning dependencies of target cost_function_to_functor_test[0m
+[ 76%] [32mBuilding CXX object internal/ceres/CMakeFiles/cost_function_to_functor_test.dir/cost_function_to_functor_test.cc.o[0m
+[ 76%] Built target autodiff_local_parameterization_test
+[35m[1mScanning dependencies of target block_random_access_diagonal_matrix_test[0m
+[ 76%] [32mBuilding CXX object internal/ceres/CMakeFiles/block_random_access_diagonal_matrix_test.dir/block_random_access_diagonal_matrix_test.cc.o[0m
+[ 76%] Built target autodiff_cost_function_test
+[ 77%] [32m[1mLinking CXX executable ../../bin/conjugate_gradients_solver_test[0m
+[35m[1mScanning dependencies of target graph_algorithms_test[0m
+[ 77%] [32mBuilding CXX object internal/ceres/CMakeFiles/graph_algorithms_test.dir/graph_algorithms_test.cc.o[0m
+[ 77%] [32m[1mLinking CXX executable ../../bin/dynamic_sparse_normal_cholesky_solver_test[0m
+[ 77%] Built target conjugate_gradients_solver_test
+[35m[1mScanning dependencies of target line_search_preprocessor_test[0m
+[ 77%] [32m[1mLinking CXX executable ../../bin/dense_sparse_matrix_test[0m
+[ 78%] [32mBuilding CXX object internal/ceres/CMakeFiles/line_search_preprocessor_test.dir/line_search_preprocessor_test.cc.o[0m
+[ 78%] Built target dense_sparse_matrix_test
+[35m[1mScanning dependencies of target dynamic_numeric_diff_cost_function_test[0m
+[ 78%] [32mBuilding CXX object internal/ceres/CMakeFiles/dynamic_numeric_diff_cost_function_test.dir/dynamic_numeric_diff_cost_function_test.cc.o[0m
+[ 78%] Built target dynamic_sparse_normal_cholesky_solver_test
+[35m[1mScanning dependencies of target bundle_adjustment_test[0m
+[ 78%] [32mBuilding CXX object internal/ceres/CMakeFiles/bundle_adjustment_test.dir/bundle_adjustment_test.cc.o[0m
+[ 78%] [32m[1mLinking CXX executable ../../bin/dogleg_strategy_test[0m
+[ 78%] [32m[1mLinking CXX executable ../../bin/iterative_schur_complement_solver_test[0m
+[ 79%] [32m[1mLinking CXX executable ../../bin/sparse_normal_cholesky_solver_test[0m
+[ 79%] Built target dogleg_strategy_test
+[35m[1mScanning dependencies of target canonical_views_clustering_test[0m
+[ 79%] [32mBuilding CXX object internal/ceres/CMakeFiles/canonical_views_clustering_test.dir/canonical_views_clustering_test.cc.o[0m
+[ 79%] Built target iterative_schur_complement_solver_test
+[35m[1mScanning dependencies of target dense_linear_solver_test[0m
+[ 79%] [32mBuilding CXX object internal/ceres/CMakeFiles/dense_linear_solver_test.dir/dense_linear_solver_test.cc.o[0m
+[ 79%] Built target sparse_normal_cholesky_solver_test
+[35m[1mScanning dependencies of target graph_test[0m
+[ 79%] [32mBuilding CXX object internal/ceres/CMakeFiles/graph_test.dir/graph_test.cc.o[0m
+[ 79%] [32m[1mLinking CXX executable ../../bin/autodiff_test[0m
+[ 79%] [32m[1mLinking CXX executable ../../bin/gradient_checker_test[0m
+[ 79%] Built target autodiff_test
+[35m[1mScanning dependencies of target residual_block_test[0m
+[ 79%] [32mBuilding CXX object internal/ceres/CMakeFiles/residual_block_test.dir/residual_block_test.cc.o[0m
+[ 79%] [32m[1mLinking CXX executable ../../bin/line_search_preprocessor_test[0m
+[ 80%] [32m[1mLinking CXX executable ../../bin/graph_algorithms_test[0m
+[ 80%] Built target graph_algorithms_test
+[35m[1mScanning dependencies of target invert_psd_matrix_test[0m
+[ 80%] [32mBuilding CXX object internal/ceres/CMakeFiles/invert_psd_matrix_test.dir/invert_psd_matrix_test.cc.o[0m
+[ 80%] [32m[1mLinking CXX executable ../bin/more_garbow_hillstrom[0m
+[ 80%] Built target gradient_checker_test
+[35m[1mScanning dependencies of target visibility_test[0m
+[ 80%] [32mBuilding CXX object internal/ceres/CMakeFiles/visibility_test.dir/visibility_test.cc.o[0m
+[ 81%] [32m[1mLinking CXX executable ../../bin/canonical_views_clustering_test[0m
+[ 81%] Built target line_search_preprocessor_test
+[35m[1mScanning dependencies of target block_random_access_dense_matrix_test[0m
+[ 82%] [32mBuilding CXX object internal/ceres/CMakeFiles/block_random_access_dense_matrix_test.dir/block_random_access_dense_matrix_test.cc.o[0m
+[ 82%] Built target canonical_views_clustering_test
+[35m[1mScanning dependencies of target dynamic_autodiff_cost_function_test[0m
+[ 83%] [32mBuilding CXX object internal/ceres/CMakeFiles/dynamic_autodiff_cost_function_test.dir/dynamic_autodiff_cost_function_test.cc.o[0m
+[ 83%] Built target more_garbow_hillstrom
+[ 84%] [32m[1mLinking CXX executable ../../bin/block_random_access_diagonal_matrix_test[0m
+[35m[1mScanning dependencies of target polynomial_test[0m
+[ 84%] [32mBuilding CXX object internal/ceres/CMakeFiles/polynomial_test.dir/polynomial_test.cc.o[0m
+[ 84%] Built target block_random_access_diagonal_matrix_test
+[35m[1mScanning dependencies of target c_api_test[0m
+[ 85%] [32mBuilding CXX object internal/ceres/CMakeFiles/c_api_test.dir/c_api_test.cc.o[0m
+[ 85%] [32m[1mLinking CXX executable ../../bin/bundle_adjustment_test[0m
+[ 85%] [32m[1mLinking CXX executable ../../bin/dynamic_numeric_diff_cost_function_test[0m
+[ 85%] Built target dynamic_numeric_diff_cost_function_test
+[35m[1mScanning dependencies of target covariance_test[0m
+[ 85%] [32mBuilding CXX object internal/ceres/CMakeFiles/covariance_test.dir/covariance_test.cc.o[0m
+[ 85%] [32m[1mLinking CXX executable ../../bin/c_api_test[0m
+[ 85%] [32m[1mLinking CXX executable ../../bin/graph_test[0m
+[ 85%] Built target bundle_adjustment_test
+[35m[1mScanning dependencies of target is_close_test[0m
+[ 86%] [32mBuilding CXX object internal/ceres/CMakeFiles/is_close_test.dir/is_close_test.cc.o[0m
+[ 86%] [32m[1mLinking CXX executable ../../bin/block_random_access_dense_matrix_test[0m
+[ 86%] Built target graph_test
+[35m[1mScanning dependencies of target evaluator_test[0m
+[ 87%] [32m[1mLinking CXX executable ../../bin/visibility_test[0m
+[ 87%] [32mBuilding CXX object internal/ceres/CMakeFiles/evaluator_test.dir/evaluator_test.cc.o[0m
+[ 87%] Built target block_random_access_dense_matrix_test
+[35m[1mScanning dependencies of target dynamic_sparsity_test[0m
+[ 87%] Built target c_api_test
+[35m[1mScanning dependencies of target gradient_checking_cost_function_test[0m
+[ 87%] [32mBuilding CXX object internal/ceres/CMakeFiles/dynamic_sparsity_test.dir/dynamic_sparsity_test.cc.o[0m
+[ 87%] [32mBuilding CXX object internal/ceres/CMakeFiles/gradient_checking_cost_function_test.dir/gradient_checking_cost_function_test.cc.o[0m
+[ 87%] Built target visibility_test
+[35m[1mScanning dependencies of target cubic_interpolation_test[0m
+[ 88%] [32mBuilding CXX object internal/ceres/CMakeFiles/cubic_interpolation_test.dir/cubic_interpolation_test.cc.o[0m
+[ 89%] [32m[1mLinking CXX executable ../../bin/dense_linear_solver_test[0m
+[ 89%] Built target dense_linear_solver_test
+[35m[1mScanning dependencies of target levenberg_marquardt_strategy_test[0m
+[ 89%] [32m[1mLinking CXX executable ../../bin/residual_block_test[0m
+[ 89%] [32mBuilding CXX object internal/ceres/CMakeFiles/levenberg_marquardt_strategy_test.dir/levenberg_marquardt_strategy_test.cc.o[0m
+[ 89%] [32m[1mLinking CXX executable ../../bin/is_close_test[0m
+[ 89%] Built target residual_block_test
+[35m[1mScanning dependencies of target gradient_problem_test[0m
+[ 90%] [32mBuilding CXX object internal/ceres/CMakeFiles/gradient_problem_test.dir/gradient_problem_test.cc.o[0m
+[ 90%] Built target is_close_test
+[35m[1mScanning dependencies of target parameter_block_test[0m
+[ 91%] [32mBuilding CXX object internal/ceres/CMakeFiles/parameter_block_test.dir/parameter_block_test.cc.o[0m
+[ 91%] [32m[1mLinking CXX executable ../../bin/polynomial_test[0m
+[ 91%] [32m[1mLinking CXX executable ../../bin/dynamic_autodiff_cost_function_test[0m
+[ 91%] Built target polynomial_test
+[35m[1mScanning dependencies of target gradient_problem_solver_test[0m
+[ 91%] [32mBuilding CXX object internal/ceres/CMakeFiles/gradient_problem_solver_test.dir/gradient_problem_solver_test.cc.o[0m
+[ 91%] Built target dynamic_autodiff_cost_function_test
+[35m[1mScanning dependencies of target single_linkage_clustering_test[0m
+[ 91%] [32m[1mLinking CXX executable ../../bin/gradient_problem_test[0m
+[ 91%] [32mBuilding CXX object internal/ceres/CMakeFiles/single_linkage_clustering_test.dir/single_linkage_clustering_test.cc.o[0m
+[ 91%] Built target gradient_problem_test
+[35m[1mScanning dependencies of target schur_complement_solver_test[0m
+[ 91%] [32mBuilding CXX object internal/ceres/CMakeFiles/schur_complement_solver_test.dir/schur_complement_solver_test.cc.o[0m
+[ 91%] [32m[1mLinking CXX executable ../../bin/dynamic_sparsity_test[0m
+[ 91%] [32m[1mLinking CXX executable ../../bin/gradient_problem_solver_test[0m
+[ 91%] [32m[1mLinking CXX executable ../../bin/covariance_test[0m
+[ 92%] [32m[1mLinking CXX executable ../../bin/gradient_checking_cost_function_test[0m
+[ 92%] Built target gradient_checking_cost_function_test
+[ 92%] Built target covariance_test
+[35m[1mScanning dependencies of target implicit_schur_complement_test[0m
+[35m[1mScanning dependencies of target problem_test[0m
+[ 92%] [32mBuilding CXX object internal/ceres/CMakeFiles/problem_test.dir/problem_test.cc.o[0m
+[ 93%] [32mBuilding CXX object internal/ceres/CMakeFiles/implicit_schur_complement_test.dir/implicit_schur_complement_test.cc.o[0m
+[ 93%] Built target dynamic_sparsity_test
+[35m[1mScanning dependencies of target inner_product_computer_test[0m
+[ 93%] [32mBuilding CXX object internal/ceres/CMakeFiles/inner_product_computer_test.dir/inner_product_computer_test.cc.o[0m
+[ 93%] Built target gradient_problem_solver_test
+[35m[1mScanning dependencies of target householder_vector_test[0m
+[ 93%] [32mBuilding CXX object internal/ceres/CMakeFiles/householder_vector_test.dir/householder_vector_test.cc.o[0m
+[ 94%] [32m[1mLinking CXX executable ../../bin/evaluator_test[0m
+[ 95%] [32m[1mLinking CXX executable ../../bin/cost_function_to_functor_test[0m
+[ 95%] Built target evaluator_test
+[35m[1mScanning dependencies of target jet_test[0m
+[ 96%] [32mBuilding CXX object internal/ceres/CMakeFiles/jet_test.dir/jet_test.cc.o[0m
+[ 96%] Built target cost_function_to_functor_test
+[ 96%] [32m[1mLinking CXX executable ../../bin/parameter_block_test[0m
+[ 97%] [32m[1mLinking CXX executable ../../bin/levenberg_marquardt_strategy_test[0m
+[ 97%] Built target parameter_block_test
+[ 97%] [32m[1mLinking CXX executable ../../bin/single_linkage_clustering_test[0m
+[ 97%] Built target single_linkage_clustering_test
+[ 97%] Built target levenberg_marquardt_strategy_test
+[ 97%] [32m[1mLinking CXX executable ../../bin/householder_vector_test[0m
+[ 98%] [32m[1mLinking CXX executable ../../bin/schur_complement_solver_test[0m
+[ 98%] Built target householder_vector_test
+[ 98%] [32m[1mLinking CXX executable ../../bin/cubic_interpolation_test[0m
+[ 98%] Built target cubic_interpolation_test
+[ 98%] Built target schur_complement_solver_test
+[ 99%] [32m[1mLinking CXX executable ../../bin/inner_product_computer_test[0m
+[ 99%] Built target inner_product_computer_test
+[ 99%] [32m[1mLinking CXX executable ../../bin/jet_test[0m
+[ 99%] Built target jet_test
+[ 99%] [32m[1mLinking CXX executable ../../bin/implicit_schur_complement_test[0m
+[ 99%] Built target implicit_schur_complement_test
+[100%] [32m[1mLinking CXX executable ../../bin/problem_test[0m
+[100%] Built target problem_test
+[100%] [32m[1mLinking CXX executable ../../bin/invert_psd_matrix_test[0m
+[100%] Built target invert_psd_matrix_test

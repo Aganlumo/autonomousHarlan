@@ -1,0 +1,87 @@
+[  1%] Built target gmock_main
+[  1%] Built target cartographer_detect_changes
+[  1%] [34m[1mBuilding documentation.[0m
+[01mRunning Sphinx v1.3.6[39;49;00m
+[ 55%] Built target cartographer
+[ 55%] Built target cartographer_migrate_serialization_format
+[ 56%] Built target cartographer_test_library
+[ 57%] Built target cartographer_autogenerate_ground_truth
+[ 58%] Built target cartographer_compute_relations_metrics
+[ 59%] Built target cartographer.mapping.imu_tracker_test
+[ 59%] Built target cartographer.io.proto_stream_test
+[ 59%] Built target cartographer.mapping.trajectory_node_test
+[ 59%] Built target cartographer.io.fake_file_writer_test
+[ 60%] Built target cartographer.mapping.3d.range_data_inserter_3d_test
+[ 61%] Built target cartographer.io.internal.in_memory_proto_stream_test
+[ 62%] Built target cartographer.mapping.map_builder_test
+[ 63%] Built target cartographer.io.serialization_format_migration_test
+[ 63%] Built target cartographer.mapping.probability_values_test
+[ 63%] Built target cartographer.mapping.internal.3d.scan_matching.real_time_correlative_scan_matcher_3d_test
+[ 63%] Built target cartographer.mapping.internal.3d.scan_matching.interpolated_grid_test
+[ 64%] Built target cartographer.mapping.submaps_test
+[ 64%] Built target cartographer.mapping.internal.3d.pose_graph_3d_test
+[ 65%] Built target cartographer.mapping.internal.3d.scan_matching.precomputation_grid_3d_test
+[ 67%] Built target cartographer.mapping.internal.3d.scan_matching.rotation_delta_cost_functor_3d_test
+[ 68%] Built target cartographer.mapping.internal.3d.scan_matching.ceres_scan_matcher_3d_test
+[ 69%] Built target cartographer.mapping.internal.3d.scan_matching.rotational_scan_matcher_test
+[ 69%] Built target cartographer.mapping.internal.optimization.cost_functions.landmark_cost_function_2d_test
+[ 70%] Built target cartographer.common.lua_parameter_dictionary_test
+[ 71%] Built target cartographer.mapping.internal.optimization.cost_functions.landmark_cost_function_3d_test
+[ 72%] Built target cartographer.mapping.3d.submap_3d_test
+[ 72%] Built target cartographer.mapping.internal.2d.scan_matching.real_time_correlative_scan_matcher_2d_test
+[ 72%] Built target cartographer.mapping.pose_graph_test
+[ 73%] Built target cartographer.mapping.internal.optimization.cost_functions.spa_cost_function_2d_test
+[ 73%] Built target cartographer.sensor.map_by_time_test
+[ 74%] Built target cartographer.common.lockless_queue_test
+[ 75%] Built target cartographer.common.thread_pool_test
+[ 76%] Built target cartographer.common.configuration_files_test
+[ 77%] Built target cartographer.common.optional_test
+[ 78%] Built target cartographer.sensor.point_cloud_test
+[ 79%] Built target cartographer.mapping.2d.map_limits_test
+[ 79%] Built target cartographer.common.math_test
+[ 80%] Built target cartographer.sensor.compressed_point_cloud_test
+[ 80%] Built target cartographer.sensor.internal.ordered_multi_queue_test
+[01mloading pickled environment... [39;49;00m[ 81%] Built target cartographer.sensor.internal.collator_test
+done
+[ 81%] Built target cartographer.common.fixed_ratio_sampler_test
+[ 81%] Built target cartographer.sensor.internal.voxel_filter_test
+[ 81%] Built target cartographer.mapping.id_test
+[ 82%] Built target cartographer.mapping.internal.2d.scan_matching.ceres_scan_matcher_2d_test
+[ 82%] Built target cartographer.common.rate_timer_test
+[ 83%] Built target cartographer.mapping.internal.2d.pose_graph_2d_test
+[ 84%] Built target cartographer.sensor.range_data_test
+[ 85%] Built target cartographer.sensor.landmark_data_test
+[ 85%] Built target cartographer.io.points_processor_pipeline_builder_test
+[ 86%] Built target cartographer.mapping.internal.3d.scan_matching.fast_correlative_scan_matcher_3d_test
+[01mbuilding [mo]: [39;49;00mtargets for 0 po files that are out of date
+[01mbuilding [html][39;49;00m: targets for 0 source files that are out of date
+[01mupdating environment: [39;49;00m0 added, 0 changed, 0 removed
+[01mlooking for now-outdated files... [39;49;00mnone found
+[01mno targets are out of date.[39;49;00m
+[01mbuild succeeded.[39;49;00m
+[ 87%] Built target cartographer.mapping.internal.constraints.constraint_builder_2d_test
+[ 87%] Built target build_doc
+[ 88%] Built target cartographer.mapping.internal.3d.local_trajectory_builder_3d_test
+[ 89%] Built target cartographer.io.proto_stream_deserializer_test
+[ 89%] Built target cartographer.mapping.internal.connected_components_test
+[ 90%] Built target cartographer.mapping.internal.range_data_collator_test
+[ 90%] Built target cartographer.transform.transform_test
+[ 91%] Built target cartographer.transform.transform_interpolation_buffer_test
+[ 91%] Built target cartographer.transform.rigid_transform_test
+[ 92%] Built target cartographer.common.task_test
+[ 93%] Built target cartographer.mapping.pose_extrapolator_test
+[ 94%] Built target cartographer.mapping.2d.submap_2d_test
+[ 94%] Built target cartographer.mapping.2d.xy_index_test
+[ 95%] Built target cartographer.mapping.pose_graph_trimmer_test
+[ 95%] Built target cartographer.mapping.2d.probability_grid_test
+[ 96%] Built target cartographer.mapping.2d.range_data_inserter_2d_test
+[ 97%] Built target cartographer.mapping.internal.2d.scan_matching.fast_correlative_scan_matcher_2d_test
+[ 97%] Built target cartographer.mapping.internal.optimization.optimization_problem_3d_test
+[ 97%] Built target cartographer.common.blocking_queue_test
+[ 98%] Built target cartographer.sensor.internal.trajectory_collator_test
+[ 98%] Built target cartographer.mapping.internal.trajectory_connectivity_state_test
+[100%] Built target cartographer.mapping.internal.motion_filter_test
+[100%] Built target cartographer.mapping.3d.hybrid_grid_test
+[100%] Built target cartographer.mapping.internal.2d.overlapping_submaps_trimmer_2d_test
+[100%] Built target cartographer.mapping.internal.2d.scan_matching.correlative_scan_matcher_test
+[100%] Built target cartographer.mapping.internal.constraints.constraint_builder_3d_test

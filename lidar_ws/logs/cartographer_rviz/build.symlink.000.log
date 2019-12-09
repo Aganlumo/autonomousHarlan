@@ -1,0 +1,4 @@
+Symlinking /home/agustin/lidar_ws/devel/lib/libcartographer_rviz.so
+Symlinking /home/agustin/lidar_ws/devel/lib/pkgconfig/cartographer_rviz.pc
+Symlinking /home/agustin/lidar_ws/devel/share/cartographer_rviz/cmake/cartographer_rvizConfig-version.cmake
+Symlinking /home/agustin/lidar_ws/devel/share/cartographer_rviz/cmake/cartographer_rvizConfig.cmake

@@ -1,0 +1,5 @@
+rosserial/rosserial_test
+/home/agustin/lidar_ws/devel/.private/rosserial_test/cmake.lock /home/agustin/lidar_ws/devel/./cmake.lock
+/home/agustin/lidar_ws/devel/.private/rosserial_test/lib/pkgconfig/rosserial_test.pc /home/agustin/lidar_ws/devel/lib/pkgconfig/rosserial_test.pc
+/home/agustin/lidar_ws/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig-version.cmake /home/agustin/lidar_ws/devel/share/rosserial_test/cmake/rosserial_testConfig-version.cmake
+/home/agustin/lidar_ws/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig.cmake /home/agustin/lidar_ws/devel/share/rosserial_test/cmake/rosserial_testConfig.cmake

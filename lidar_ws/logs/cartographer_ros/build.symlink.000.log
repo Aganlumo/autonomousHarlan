@@ -1,0 +1,14 @@
+Symlinking /home/agustin/lidar_ws/devel/lib/libcartographer_ros.a
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_offline_node
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_node
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_pbstream_to_ros_map
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_dev_rosbag_publisher
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_rosbag_validate
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_pbstream_map_publisher
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_dev_trajectory_comparison
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_start_trajectory
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_assets_writer
+Symlinking /home/agustin/lidar_ws/devel/lib/cartographer_ros/cartographer_occupancy_grid_node
+Symlinking /home/agustin/lidar_ws/devel/lib/pkgconfig/cartographer_ros.pc
+Symlinking /home/agustin/lidar_ws/devel/share/cartographer_ros/cmake/cartographer_rosConfig-version.cmake
+Symlinking /home/agustin/lidar_ws/devel/share/cartographer_ros/cmake/cartographer_rosConfig.cmake

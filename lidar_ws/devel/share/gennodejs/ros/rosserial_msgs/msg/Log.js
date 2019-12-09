@@ -1,0 +1,1 @@
+/home/agustin/lidar_ws/devel/.private/rosserial_msgs/share/gennodejs/ros/rosserial_msgs/msg/Log.js

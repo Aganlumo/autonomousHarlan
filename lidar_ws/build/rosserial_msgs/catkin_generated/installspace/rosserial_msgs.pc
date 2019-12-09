@@ -1,0 +1,8 @@
+prefix=/home/agustin/lidar_ws/install
+
+Name: rosserial_msgs
+Description: Description of rosserial_msgs
+Version: 0.8.0
+Cflags: -I/home/agustin/lidar_ws/install/include
+Libs: -L/home/agustin/lidar_ws/install/lib 
+Requires: message_runtime
