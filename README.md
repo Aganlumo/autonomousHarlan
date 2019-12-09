@@ -26,7 +26,6 @@ cd zed_ws
 ls
 ```
 
-
 ## ORB_SLAM2 (MAPPING AND LOCALIZATION MODE)
 In this page we attached a document called "ORB_SLAM2 AND ZED STEREO CAMERA INSTALLATION", where you can find all the requirements to install.
 
@@ -35,7 +34,29 @@ We attached in the "ORB_SLAM2" folder a programm in python called fullPIDControl
 
 
 ## PYMODBUS
+To initiate MODBUS communication from the computer, it is imperative to install the pymodbus library which manages access to the computer's ports. The library installation can be done in the following ways:
 
+Option 1: Execute the following command in the terminal from home:
+
+```
+$ sudo python -m pip install pymodbus
+
+```
+Option 2: Execute the following command in the terminal from home:
+
+```
+$ sudo python pip install pymodbus
+
+```
+Option 3: Execute the following command in the terminal from home:
+```
+$ sudo apt-get install python-pymodbus
+
+```
+Subsequently, you must connect the PLC to the computer and verify if the device has been connected through the following command:
+```
+$ lsusb
+```
 
 # Video:
 We are attaching a YouTube link to evidence the work that began in August-December 2017 and has been worked until August-December 2019.
