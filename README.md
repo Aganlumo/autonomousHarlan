@@ -8,8 +8,23 @@ You must have the ROS-Kinetic-Kame version installed in Ubutu 16.04
 
 ## Workspace creation (Catkin)
 Our workspace is called zed_ws. You have to write in a terminal:
+```
+mkdir -p ~/zed_ws/src
+cd zed_ws/src
+catkin_init_workspace
+ls
+```
 
 You must verify that CMakeList.txt exists in the folder. Next, you build the workspace using these commands:
+```
+cd ..
+catkin_make
+```
+Check that the build, develop and src folders exist in the catkin_ws folder. To do this from home, the commands are made:
+```
+cd zed_ws
+ls
+```
 
 
 ## ORB_SLAM2 (MAPPING AND LOCALIZATION MODE)
