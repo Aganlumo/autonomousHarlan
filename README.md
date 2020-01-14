@@ -27,7 +27,7 @@ ls
 ```
 
 ## ORB_SLAM2 (MAPPING AND LOCALIZATION MODE)
-In this page we attached a document called "ORB_SLAM2 AND ZED STEREO CAMERA INSTALLATION", where you can find all the requirements to install.
+In this page we attached a folder at the address zed_ws/ORB_SLAM2 where you can find ORB_SLAM2 algorithm.
 
 ## PID DRIVER
 We attached in the "ORB_SLAM2" folder a programm in python called fullPIDControlComms.py. This file is our driver used to give the autonomy function to our vehicle.
